@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<speak version="1.0" xml:lang="en-us" xmlns="http://www.w3.org/2001/10/synthesis" >
+  <s>this is a sentence.</s>
+  <s>this is another sentence.</s>
+  <s>
+    This is legen
+    <break strength="weak"></break>
+    wait for it
+    <break time="2s"></break>
+    dary. Legendary.
+  </s>
+  <!--<sub alias ="Speech Synthesis Markup Language">SSML</sub>
+  is 
+  <say-as interpret-as="characters">fun</say-as> fun 
+  and exciting . Weeboggie.-->
+</speak>
